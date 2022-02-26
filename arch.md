@@ -1,0 +1,3 @@
+# Architecture
+
+![](./arch.drawio.svg)
